@@ -96,6 +96,8 @@ img {
   line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--accent-color);
+  margin-bottom: 20px;
+  display: block;
 }
 
 .navigation-item:not(:last-child) {
@@ -423,11 +425,11 @@ img {
   margin-bottom: 20px;
 }
 
-.footer-social {
+/*.footer-social {
   display: flex;
   align-items: center;
   justify-content: center;
-}
+}*/
 
 .footer-social-item:not(:last-child) {
   margin-right: 10px;
@@ -451,7 +453,7 @@ img {
 .footer-social-list {
   display: flex;
   align-items: center;
-  justify-content: center;
+  /* justify-content: center;*/
 }
 
 .footer-icon {
@@ -469,6 +471,7 @@ img {
 
 .container-logo {
   margin-bottom: 20px;
+  margin-right: 70px;
 }
 
 .contact-adress {
