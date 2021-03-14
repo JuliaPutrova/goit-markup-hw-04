@@ -107,8 +107,6 @@ img {
   line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--accent-color);
-  margin-bottom: 25px;
-  margin-top: 24px;
 }
 
 .navigation-item:not(:last-child) {
@@ -435,7 +433,7 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--primary-white-color);
-  display: block;
+  display: flex;
   margin-bottom: 20px;
 }
 
